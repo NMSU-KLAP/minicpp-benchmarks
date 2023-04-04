@@ -1,0 +1,23 @@
+{
+    "tsp" :
+    {
+
+        "id"        : "tsp",
+        "path"      : "./tsp",
+        "model"     : "tsp.mzn"
+    },
+
+    "langford" :
+    {
+        "id"        : "langford",
+        "path"      : "./langford",
+        "model"     : "langford.mzn"
+    },
+
+    "nqueens" :
+    {
+        "id"        : "nqueens",
+        "path"      : "./nqueens",
+        "model"     : "nqueens.mzn"
+    }
+} 

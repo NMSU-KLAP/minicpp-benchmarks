@@ -1,0 +1,17 @@
+{
+    "minicpp" :
+    {
+        "id"      : "minicpp",
+        "mzn_id"  : "org.minicpp.minicpp",
+        "tags"    : [],
+        "label"   : "MiniCPP"
+    },
+
+    "minicpp-gpu" :
+    {
+        "id"      : "minicpp-gpu",
+        "mzn_id"  : "org.minicpp.minicpp",
+        "tags"    : ["gpu"],
+        "label"   : "MiniCPP-GPU"
+    }
+}
